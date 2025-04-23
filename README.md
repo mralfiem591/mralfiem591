@@ -12,7 +12,7 @@
 
 ## 🌟 Projects
 - 📊 **JSON Visualizer Upgrade**: Improved a visualizer for better metadata exploration and organization.
-- 🖥️ **[ALF-DOS](https://github.com/mralfiem591/alf-dos)**: An MS-DOS-inspired *modular* Python CLI, allowing for downloading commands and linked to GitHub.
+- 🖥️ **[ALF-DOS](https://github.com/mralfiem591/alf-dos)**: An MS-DOS-inspired *modular* Python CLI, allowing for downloading commands from [Paks](https://github.com/mralfiem591/alf-dos-paks) and linked to GitHub.
 
 ## 📚 What’s Next?
 - 🔭 Deep diving into Python frameworks like Flask and Django.
@@ -30,3 +30,5 @@
 mralfiem591/mralfiem591 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+*© 2025 Alfie | Projects with a LICENCE file are under MIT License.*
