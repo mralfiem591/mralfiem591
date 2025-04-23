@@ -7,11 +7,12 @@
 
 ## 🛠️ Skills
 - 💻 Proficient in Python and familiar with libraries like `tkinter`.
-- 🧩 Enhanced open-source tools such as upgrading a JSON visualizer for metadata exploration. (Publishing Soon!)
+- 🧩 Enhanced open-source tools such as upgrading a JSON visualizer for metadata exploration.
 - 🔍 Strong problem-solving and troubleshooting skills, especially for system configurations.
 
 ## 🌟 Projects
-- 📊 **JSON Visualizer Upgrade**: Improved a visualizer for better metadata exploration and organization. (Publishing Soon!)
+- 📊 **JSON Visualizer Upgrade**: Improved a visualizer for better metadata exploration and organization.
+- 🖥️ **[ALF-DOS](https://github.com/mralfiem591/alf-dos)**: An MS-DOS-inspired *modular* Python CLI, allowing for downloading commands and linked to GitHub.
 
 ## 📚 What’s Next?
 - 🔭 Deep diving into Python frameworks like Flask and Django.
