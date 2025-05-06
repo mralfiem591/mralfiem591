@@ -24,11 +24,11 @@
 😄 **Pronouns**: He/Him  
 📍 Based in Airdrie, Scotland  
 
-"Let’s turn ideas into reality, one line of code at a time!"
+> "Let’s turn ideas into reality, one line of code at a time!"
 
 <!---
 mralfiem591/mralfiem591 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-*© 2025 Alfie | Projects with a LICENCE file are under MIT License.*
+*© 2025 Alfie | Projects with a LICENCE file are under MIT License, unless otherwise stated.*
