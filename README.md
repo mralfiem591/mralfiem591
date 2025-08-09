@@ -1,4 +1,7 @@
-# 👋 Hello, World! I’m @mralfiem591
+# 👋 Hello, World! I’m [@mralfiem591](https://gravatar.com/festivaloriginal587e3951c8)!
+
+![mralfiem591's GitHub stats](https://github-readme-stats.vercel.app/api?username=mralfiem591&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mralfiem591&show_icons=true)
 
 ## 🙋‍♂️ About Me
 - 👀 **Interests**: Tech, Computers, and all things Python!
@@ -31,4 +34,4 @@ mralfiem591/mralfiem591 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-*© 2025 Alfie | Projects with a LICENCE file are under MIT License, unless otherwise stated.*
+*© 2025 Alfie | Projects with a LICENSE file are under MIT License, unless otherwise stated.*
