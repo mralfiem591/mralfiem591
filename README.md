@@ -1,8 +1,5 @@
 # 👋 Hello, World! I’m [@mralfiem591](https://gravatar.com/festivaloriginal587e3951c8)!
 
-![mralfiem591's GitHub stats](https://github-readme-stats.vercel.app/api?username=mralfiem591&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mralfiem591&show_icons=true)
-
 ## 🙋‍♂️ About Me
 - 👀 **Interests**: Tech, Computers, and all things Python!
 - 🌱 **Currently Learning**: Python and exploring its vast ecosystem.
