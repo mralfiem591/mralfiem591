@@ -24,6 +24,8 @@
 😄 **Pronouns**: He/Him  
 📍 Based in Airdrie, Scotland  
 
+PS. Yes, this MD file is AI-generated, yes, some of my old code contains AI-generated snippets, and yes, I am using less AI in my newer projects (PaxD or anything after it has a lower amount of AI used, sometimes none)
+
 > "Let’s turn ideas into reality, one line of code at a time!"
 
 <!---
