@@ -13,6 +13,7 @@
     - [PaxD](https://github.com/mralfiem591/paxd), a package manager for apps made with Python
     - PyInstPatch (unreleased, coming soon), a modloader for PyInstaller apps from Python 3.5 - 3.15
     - [QuillPy](https://github.com/mralfiem591/quillpy), a very basic, *not very good*, and archived text editor
+    - [OutOfContext](https://discord.com/oauth2/authorize?client_id=1508427187915587717), a Discord bot which on-demand forwards a random message from the channel it is ran in, into the channel, **Out Of Context**
  
 - Want to learn:
     - More about Python
